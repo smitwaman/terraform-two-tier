@@ -13,6 +13,11 @@ Internet Gateway and Elastic IPs for EC2 instance.
 Prerequisites:
 
 Install Terraform CLI
+
 Install AWS CLI
+
 AWS Account
+
 Code Editor (I used VS Code for this deployment)
+
+Simply run terraform commands with aws cli login. You will find our deployment in ready state.
